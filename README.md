@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Eduarda
-- 👀 I’m work with Cloud Computing
+- 💻 I’m work with Cloud Computing
 - 🌱 I’m currently learning Devops
 - 📫 How to reach me https://www.linkedin.com/in/maria-eduarda-veloso-6a1619214/
 
